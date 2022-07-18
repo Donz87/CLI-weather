@@ -1,5 +1,5 @@
 {
-  "name": "weather-cli",
+  "name": "weather-di.zav",
   "version": "1.0.0",
   "description": "CLI gor getting weather",
   "main": "weather.js",
@@ -8,23 +8,23 @@
   },
   "type": "module",
   "scripts": {
-    "start": "node index.js",
+    "start": "node weather.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "cli",
     "weather"
   ],
-  "author": "Dima Zzz",
+  "author": "Dmitrii Zav",
   "license": "ISC",
-  "homepage": "bitsky.eu",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "bitsky.eu"
+    "url": "https://github.com/Donz87"
   },
   "bugs": {
-    "url": "https://bitsky.eu",
-    "email": "donskoy.zzz@gmail.com"
+    "url": "https://github.com/Donz87",
+    "email": "test.z@gmail.com"
   },
   "dependencies": {
     "axios": "^0.21.4",
